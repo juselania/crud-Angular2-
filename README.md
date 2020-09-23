@@ -15,9 +15,11 @@ Sobre o projeto :
 
 ## Para obter projeto
 
+- Descompacte a pasta do projeto!
+
 ```
 $ git clone https://github.com/jucelania/crud-Angular2.git
-$ cd crud-Angular2
+$ cd crud
 $ npm install
 //run the app
 $ ng serve
